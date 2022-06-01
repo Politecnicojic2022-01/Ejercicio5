@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ListaCompras SYSTEM "ListaCompras.dtd">
+<ListaCompras>
+    <Venta>
+        <VentaCredito>
+            <FechaFinPago></FechaFinPago>
+            <Cantidad></Cantidad>
+        </VentaCredito>
+        <VentaInmediata>
+            <cantidad></cantidad>
+            <divisa></divisa>
+        </VentaInmediata>
+    </Venta>
+</ListaCompras>
