@@ -3,12 +3,12 @@
 <ListaCompras>
     <Venta>
         <VentaCredito>
-            <FechaFinPago></FechaFinPago>
-            <Cantidad></Cantidad>
+            <FechaFinPago>20220701</FechaFinPago>
+            <Cantidad>20000</Cantidad>
         </VentaCredito>
         <VentaInmediata>
-            <cantidad></cantidad>
-            <divisa></divisa>
+            <cantidad>50</cantidad>
+            <divisa>cop</divisa>
         </VentaInmediata>
     </Venta>
 </ListaCompras>
